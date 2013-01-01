@@ -1,0 +1,12 @@
+{
+    "response": {
+        "list": {
+            "Jazz": "http://streaming208.radionomy.com:80/A-JAZZ-FM-WEB",
+            "FoxNews": "http://fnradio-shoutcast-32.ng.akacast.akamaistream.net/7/115/13873/v1/auth.akacast.akamaistream.net/fnradio-shoutcast-32",
+            "Mozart": "http://radio.skypherence.com:8000/radiomozart",
+            "Jazz": "http://streaming208.radionomy.com:80/A-JAZZ-FM-WEB",
+            "FoxNews": "http://fnradio-shoutcast-32.ng.akacast.akamaistream.net/7/115/13873/v1/auth.akacast.akamaistream.net/fnradio-shoutcast-32",
+            "Mozart": "http://radio.skypherence.com:8000/radiomozart"
+        }
+    }
+}

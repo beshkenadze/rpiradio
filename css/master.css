@@ -1,0 +1,77 @@
+body {
+    padding-top: 20px;
+    padding-bottom: 40px;
+
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+/* Custom container */
+.container-narrow {
+    margin: 0 auto;
+    max-width: 700px;
+}
+.container-narrow > hr {
+    margin: 30px 0;
+}
+
+
+.player {
+    margin: 60px 0;
+    text-align: center;
+}
+.player h1 {
+    font-size: 72px;
+    line-height: 1;
+}
+
+
+/* Supporting marketing content */
+.stations {
+    margin: 60px 0;
+}
+.stations p + h4 {
+    margin-top: 0px;
+}
+
+
+.player a.control,
+.player a.control:hover,
+.player a.control:active,
+.player a.control.active,
+.player a.control.disabled,
+.player a.control[disabled],
+.player a.control:focus
+{
+    text-decoration: none;
+    font-size: 44px;
+    padding: 0;
+    border: 0px;
+    background: none;
+    color: #000;
+}
+
+.volumes a.control,
+.volumes a.control:hover,
+.volumes a.control:active,
+.volumes a.control.active,
+.volumes a.control.disabled,
+.volumes a.control[disabled],
+.volumes a.control:focus
+{
+    text-decoration: none;
+    font-size: 24px;
+    padding: 0;
+    border: 0px;
+    background: none;
+    color: #000;
+}
+
+.volumes .dropdown-menu {
+    min-width: 20px;
+    margin-left: -20px;
+}
+
+.controls {
+    padding: 20px
+}
